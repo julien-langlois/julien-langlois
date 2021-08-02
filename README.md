@@ -2,6 +2,7 @@
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-langloisjulien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/langloisjulien/)](https://www.linkedin.com/in/langloisjulien/)
+[![Keybase Badge](https://img.shields.io/badge/-julienlanglois-red?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/julienlanglois)](https://keybase.io/julienlanglois)
 
 ## ⚡ Technologies
 
