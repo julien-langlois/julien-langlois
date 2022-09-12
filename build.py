@@ -34,8 +34,8 @@ if __name__ == "__main__":
             "badge": "![Keybase](https://img.shields.io/badge/-julienlanglois-red?style=for-the-badge&logo=keybase&logoColor=white&link=https://keybase.io/julienlanglois)",
         },
         "stats": [
-            "![Github Stats](https://github-readme-stats.vercel.app/api?username=julien-langlois&count_private=true&show_icons=true&include_all_commits=true)",
-            "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-langlois&layout=compact)",
+            "![Github Stats](https://github-readme-stats.vercel.app/api?username=julien-langlois&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)",
+            "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-langlois&layout=compact&theme=github_dark&hide_border=true)",
         ],
         "badges": [
             "![Drupal](https://img.shields.io/badge/-Drupal-black?style=for-the-badge&logo=drupal)",
