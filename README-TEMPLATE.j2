@@ -1,0 +1,56 @@
+# Hi there, I'm Julien Langlois 👋
+
+Welcome to my page!
+I'm Julien, Drupal Developer and DevOps from **Montpellier, France**. I like to share my
+knowledges and you can access all examples in my projects.
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
+{% if badges is defined -%}
+
+## ⚡ Technologies
+
+{% for badge in badges %}{{ badge }}{% endfor %}
+
+{% endif -%}
+
+{% if last_posts is defined %}
+
+## My latest blog posts
+
+{% for post in last_posts %}
+
+* [{{post.title}}]({{post.link}})
+{% endfor %}
+{% endif %}
+
+{% if links is defined %}
+
+## My links
+
+{% for link in links %}
+
+* [{{link.title}}]({{link.link}})
+{% endfor %}
+{% endif %}
+
+## Where to find me
+
+[{{ linkedin.badge }}]({{ linkedin.url }}) [{{ twitter.badge }}]({{ twitter.url }})[{{ keybase.badge }}]({{ keybase.url }})
+
+{% if stats is defined %}
+## Stats
+
+{% for stat in stats %}{{ stat }}{% endfor %}
+
+{% endif %}
+
+<img src="https://github.com/julien-langlois/julien-langlois/blob/master/images/stat.svg" alt="julien-langlois WakaTime Activity"/>
+
+## Weather
+
+{{ weather }}
+
+### Last generation
+
+{{ date }}
