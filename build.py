@@ -35,7 +35,7 @@ if __name__ == "__main__":
         },
         "stats": [
             "![Github Stats](https://github-readme-stats.vercel.app/api?username=julien-langlois&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)",
-            "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-langlois&layout=compact&theme=github_dark&hide_border=true)",
+            "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-langlois&layout=compact&theme=github_dark&hide_border=true&langs_count=10)",
         ],
         "badges": [
             "![Drupal](https://img.shields.io/badge/-Drupal-black?style=for-the-badge&logo=drupal)",
