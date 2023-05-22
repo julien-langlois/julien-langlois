@@ -17,15 +17,7 @@ knowledges and you can access all examples in my projects.
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=julien-langlois&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-langlois&layout=compact&theme=github_dark&hide_border=true&langs_count=10)
+
 
 <img src="https://github.com/julien-langlois/julien-langlois/blob/master/images/stat.svg" alt="julien-langlois WakaTime Activity"/>
 
-## Weather
-
-Montpellier: ☁️   +25°C
-
-
-### Last generation
-
-17 September 2022 at 22:01:45
